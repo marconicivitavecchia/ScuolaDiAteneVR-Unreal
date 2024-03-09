@@ -76,3 +76,5 @@ DerivedDataCache/*
 
 # Meta Quest deployment files
 Quest/
+
+*.keystore
